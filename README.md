@@ -11,13 +11,13 @@ A simple Angry Birds-style game built with Python and Pygame. This is my first p
 - 3 levels with win and game-over screens
 
 ## Screenshot
-![Gameplay](screenshot.png)
+
 
 ## How to Run
 1. Install Python 3.9 or newer
 2. Install the dependency:
-3. . Run the game:
-4. 
+3. pip install pygame 
+4. run the game 
 ## Controls
 | Key / Action | What it does |
 |---|---|
